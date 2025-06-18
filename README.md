@@ -1,2 +1,1 @@
 # scientific-python
-# scientific-python
